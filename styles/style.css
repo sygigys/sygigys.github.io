@@ -1,0 +1,33 @@
+html {
+	background-image: url("../folder/fon.jpg");
+	font-family: "Jacquard 12";
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	background-color: rgba(100;0;100;0.5);
+	border: 5px solid white;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: left;
+	color: white;
+	filter: drop-shadow(px 0px 0px rgba(0,0,0,0.3));
+}
+
+img {
+	width: 550px;
+	filter: drop-shadow(0px 0px 50px white);
+	height: 450px;
+}
+
+p, ul, a {
+	font-size: 50px;
+	line-height: 2;
+	letter-spacing: 1px;
+	color: white;
+	text-shadow: -3px -7px 7px white;
+}
